@@ -1,0 +1,14 @@
+
+.container {
+    width: 80%; /* Ancho menor al 100% */
+    margin: 0 auto; /* Centrado horizontal */
+    background-color: aliceblue;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px;
+    text-align: center; /* Centrar texto dentro del contenedor */
+    align-items: center;
+    min-height: 100vh; /* Altura de la pagina */
+    min-height: 100%;
+}
+
